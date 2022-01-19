@@ -1,0 +1,50 @@
+body{
+    margin: 0 135px;
+}
+
+
+.container-one{
+    height: 700px;
+    width: 100%;
+    background-color: #FFFBF0;
+    margin: 0;
+}
+
+.logo img{
+    width: 25%;
+}
+.menu ul li{
+    list-style: none;
+    /* margin-right: 20px; */
+}
+.menu ul{
+    display: flex;
+    flex-direction: row;
+    
+}
+h1{
+   font-family: 'Bebas Neue';
+   font-size: 80px;
+}
+span{
+    color: #FABE4C;
+}
+#woman-jacket{
+    font-size: 48px;
+}
+.card img{
+    background-color: #F1F1F1;
+    padding: 10%;
+}
+h2{
+    font-size: 36px;
+    height: 42px;
+}
+.price{
+font-family: Roboto;
+font-style: normal;
+font-weight: 900;
+font-size: 36px;
+line-height: 42px;
+color: #FABE4C;
+}
